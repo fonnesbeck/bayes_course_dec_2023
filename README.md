@@ -36,15 +36,13 @@ In advance of the course, we would like attendees to complete a short homework n
 
 The course comprises six two-hour modules of videoconference lectures, along with short associated hands-on projects to reinforce materials covered during lectures. The sections cover core materials related to Bayesian computation using PyMC, and include:
 
-## Daily Schedule
+## Daily Schedule (All times are US Eastern)
 
-- **8:00 to 9:30** First session
-- **9:30 to 9:45** Break
-- **9:45 to 11:15** Second session
-- **11:15 to 11:45** Lunch
-- **11:45 to 12:45** Third session
+- **10:00 to 11:15** First session
+- **11:15 to 11:30** Break
+- **11:30 to 12:45** Second session
 - **12:45 to 13:00** Break
-- **13:00 to 14:00** Fourth session
+- **13:00 to 14:00** Third session
 
 ### Monday, December 4
 
