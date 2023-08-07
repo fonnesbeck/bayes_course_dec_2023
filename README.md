@@ -34,7 +34,7 @@ In advance of the course, we would like attendees to complete a short homework n
 
 ## Course Outline
 
-The course comprises six two-hour modules of videoconference lectures, along with short associated hands-on projects to reinforce materials covered during lectures. The sections cover core materials related to Bayesian computation using PyMC, and include:
+The course comprises twelve 75-minute modules of videoconference lectures, along with short associated hands-on projects to reinforce materials covered during lectures. The sections cover core materials related to Bayesian computation using PyMC, and include:
 
 ## Daily Schedule (All times are US Eastern)
 
