@@ -20,7 +20,11 @@ The repository for this tutorial contains a file called `environment.yml` that i
 
 from the main tutorial directory (if you installed Anaconda instead of Miniforge, use `conda` instead of `mamba`), it will create the environment for you and install all of the packages listed. This environment can be enabled using:
 
-    mamba activate bayes_course  # Can also use "conda activate bayes_course"
+    mamba activate bayes_course  
+
+or 
+    
+    conda activate bayes_course
 
 Then, you can start **JupyterLab** to access the materials:
 
