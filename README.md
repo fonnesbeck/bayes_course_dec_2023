@@ -6,7 +6,7 @@ Material for course on Bayesian Computation
 
 ## Setup
 
-This tutorial assumes that you have [Anaconda](https://www.anaconda.com/products/individual#download-section) (Python 3.11) setup and installed on your system. If you do not, please download and install Anaconda on your system before proceeding with the setup.
+This tutorial assumes that you have some form of [Anaconda](https://www.anaconda.com/products/individual#download-section) Python (with Python version 3.11) setup and installed on your system. If you do not, please download and install this on your system before proceeding with the setup. We recommend using the [Miniforge](https://github.com/conda-forge/miniforge#download) distribution of Anaconda, which is a lightweight version of Anaconda that is easier to work with.
 
 The next step is to clone or download the tutorial materials in this repository. If you are familiar with Git, run the clone command:
 
@@ -16,11 +16,11 @@ otherwise you can [download a zip file](https://github.com/fonnesbeck/bayes_cour
 ***
 The repository for this tutorial contains a file called `environment.yml` that includes a list of all the packages used for the tutorial. If you run:
 
-    conda env create
+    mamba env create
 
-from the main tutorial directory, it will create the environment for you and install all of the packages listed. This environment can be enabled using:
+from the main tutorial directory (if you installed Anaconda instead of Miniforge, use `conda` instead of `mamba`), it will create the environment for you and install all of the packages listed. This environment can be enabled using:
 
-    conda activate bayes_course
+    mamba activate bayes_course  # Can also use "conda activate bayes_course"
 
 Then, you can start **JupyterLab** to access the materials:
 
