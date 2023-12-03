@@ -38,17 +38,17 @@ For those who like to work in VS Code, you can also run Jupyter notebooks from w
 
 In advance of the course, we would like attendees to complete a short homework notebook that will ensure everyone has the requisite baseline knowledge. You can find this Jupyter notebook in the `/notebooks` subdirectory (under `Section0-Pre_Work.ipynb`). There is no need to hand this in to anyone, but please reach out if you have difficulty with any of the problems (or with setting up your computing environment) by creating an [issue](https://github.com/fonnesbeck/bayes_course_dec_2023/issues) in this repository, or by emailing.
 
-## Course Outline
-
-The course comprises twelve 75-minute modules of videoconference lectures, along with short associated hands-on projects to reinforce materials covered during lectures. The sections cover core materials related to Bayesian computation using PyMC, and include:
-
 ## Daily Schedule (All times are US Eastern)
 
-- **10:00 to 11:15** First session
-- **11:15 to 11:30** Break
-- **11:30 to 12:45** Second session
-- **12:45 to 13:00** Break
-- **13:00 to 14:00** Third session
+- **10:00 to 11:30** First session
+- **11:30 to 12:00** Lunch 🥪
+- **12:00 to 13:00** Second session
+- **13:00 to 13:15** Break ☕
+- **13:15 to 14:00** Third session
+
+## Course Outline
+
+The course comprises ten modules of videoconference lectures, along with short associated hands-on projects to reinforce materials covered during lectures. The sections cover core materials related to Bayesian computation using PyMC, and include:
 
 ### Monday, December 4
 
@@ -84,17 +84,19 @@ The course comprises twelve 75-minute modules of videoconference lectures, along
 
 ### Wednesday, December 6
 
-**PyMC Model Building and Model Checking** 
+**PyMC Model Building* 
 - Model building in PyMC
 - Partial pooling
 - Building hierarchical models
 - Parameterizations
+
+**Model Checking***
 - Convergence diagnostics
 - Goodness-of-fit checks
 - Model comparison
 
 
-### Thrusday, December 7
+### Thursday, December 7
 
 **The Bayesian Workflow** 
 - Prior predictive checks
