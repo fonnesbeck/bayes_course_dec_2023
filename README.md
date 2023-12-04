@@ -71,26 +71,21 @@ The course comprises ten modules of videoconference lectures, along with short a
   
 ### Tuesday, December 5
 
-**Hierarchical Models**
-- Parital pooling
-- Random effects
-- Prediction
-
-**Non-parametric Bayes** 
-- Dirichlet processes
-- Spline models
-- Gaussian processes
-
-
-### Wednesday, December 6
-
-**PyMC Model Building* 
+**PyMC Model Building**
 - Model building in PyMC
 - Partial pooling
 - Building hierarchical models
 - Parameterizations
 
-**Model Checking***
+**Hierarchical Models**
+- Parital pooling
+- Random effects
+- Prediction
+
+
+### Wednesday, December 6
+
+**Model Checking**
 - Convergence diagnostics
 - Goodness-of-fit checks
 - Model comparison
@@ -104,3 +99,8 @@ The course comprises ten modules of videoconference lectures, along with short a
 - Posterior predictive checks
 - Generative modeling
 - Using the model
+
+**Non-parametric Bayes** 
+- Dirichlet processes
+- Spline models
+- Gaussian processes
